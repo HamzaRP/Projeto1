@@ -23,6 +23,7 @@ nav {
     padding: 5px;
     word-spacing: 500px;
 }
+.
 
 nav a {
     text-decoration: white;
@@ -44,10 +45,10 @@ section {
 }
 
 footer {
-    background-color: rgb(100, 97, 97);
-    color: rgb(42, 66, 201);
-    position: fixed;
-    padding: 10px;
+    background-color: rgb(7, 7, 7);
+    color: rgb(253, 253, 253);
+    padding: 0px;
     bottom: 0;
+    display: table;
     width: 100%;
 }
